@@ -5,3 +5,8 @@ Built using Ionic with Angular integration, database hosting and deployment with
 Project documentation as well as installation instructions can be found in Report.pdf
 
 This project is deployed at https://cyclopediapp.firebaseapp.com
+
+## Screenshots
+![Home](https://github.com/lilmergo/2021W-UBCO-COSC-499-Cyclops/blob/main/Screenshots/home.png?raw=true)
+![Home](https://github.com/lilmergo/2021W-UBCO-COSC-499-Cyclops/blob/main/Screenshots/browse.png?raw=true)
+![Home](https://github.com/lilmergo/2021W-UBCO-COSC-499-Cyclops/blob/main/Screenshots/tracker.png?raw=true)
