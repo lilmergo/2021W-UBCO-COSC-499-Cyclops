@@ -13,7 +13,6 @@ CyclopediApp is an educational app focused on raising awareness about environmen
 - Frontend: Ionic + Angular
 - Backend: Firebase
 - Other Tools: Node.js, Firebase CLI, Android Studio
-- Languages: JavaScript, TypeScript, HTML, CSS
 
 Project documentation as well as installation instructions can be found in Report.pdf
 
